@@ -2,8 +2,8 @@
 This is the version control of our website.
 
 ## 1) What is this repository for?
-It is a website that we'll use for the rest of the website to concurr
-in a single entrance point. Every website has its own objective but all of them will only concurr in here.
+It is a website that we'll use for the rest of the website to concur
+in a single entrance point. Every website has its own objective but all of them will only concur in here.
 
 ### 1.1) Quick summary
 This works as a published version and host for our site http://whiteweb.mx
